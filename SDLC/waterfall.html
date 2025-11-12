@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kosemudel</title>
+</head>
+<body>
+    <a href="../index.html">Tagasi</a>
+    <h1>Kosemudel</h1><br/>
+    <p>
+        Kosemudel(ehk waterfall) on üks esimesi tarkvaraarenduse elutsükli mudeleid. Ta põhineb tavalise <br/>
+        tootmisprotsessi eeskujul, kus iga etapp eelneb järgmisele. Tagasipöördumine eelmisesse etappi on keeruline <br/>
+        ning kui eelnevas etapis avastatakse viga, tähendab see seda, et vea juurde saab tagasi tulla alles<br/>
+        siis kui tarkvara on kasutusse läinud.<br/>
+    </p>
+    <h2>Kosemudeli etapid:</h2><br/>
+    <p>
+        Kosemudel koosneb viiest etapist, mis rahuldab kõik üldise tarkvaraarenduse elutsükli etappe.<br/>
+        Nendeks on: Nõuete määratlemine, Süsteemi ja Tarkvara kavandamine, Teostus ning moodulite testimine, <br/>
+        Integratsioon ja süsteemi testimine ning kasutamine ja hooldus.<br/><br/>
+    </p>
+    <h3>1. Etapp - Nõuete määratlemine</h3><br/>
+    <p>
+        Siin etapis dokumenteeritakse arendatava toote või süsteemi nõuded, käitumine, sihtriistvara jms.<br/>
+        Vahest jaotatakse see etapp kaheks - süsteemi analüüs ja nõuete analüüs.<br/><br/>
+    </p>
+    <h3>2. Etapp - Nõuete määratlemine</h3><br/>
+    <p>
+        Teises etapis kavandatakse arendusele mineva tarkvaratoote süsteem ja struktuur, keskendudes selle<br/>
+        funktsionaalsetele omadustele. Need võivad olla  erinevad Andmestruktuurid, toote enda arhitektuur, <br/>
+        erinevad liidesed, nende liideste omadused ja muud algorütmilised detailid. Kavandamise tulemused<br/>
+        dokumenteeritakse, ning mille järgi hiljem teostuses hinnatakse projekti kvaliteeti - Mida rohkem<br/>
+        on tehtud, seda rohkem on projektist valminud.<br/><br/>
+    </p>    
+    <h3>3. Etapp - Teostus ning moodulite testimine</h3><br/>
+    <p>
+        Eelnevalt valminud kavandi järgi toimub selles etapis toote arendus. Arendustöö käigus arendatakse<br/>
+        programm moodulhaaval või moodulite kogumikuna. Peale arendustööd testitakse valmissaanud mooduleid<br/>
+        ja moodulikogumikke. Olenevalt eelnevalt dokumenteeritud kavandi detailsusest tuleneb nüüd selles etapis<br/>
+        projekti arenduslihtsus. Mida rohkem on detaile kavandatud, seda lihtsam on arendustöö.<br/><br/>
+    </p>
+    <h3>4. Etapp - Integratsioon ja süsteemi testimine</h3><br/>
+    <p>
+        Toimub kogu valmissaadud tarkvarasüsteemi testimine. Peale testimist tarnitakse toode kliendile ja/või<br/>
+        sihtrühmale. Testitakse sellest vaatepunktist, kas süsteem teab seda, mis eelnevalt dokumenteeritud ning<br/>
+        testitakse ka et süsteemis olevad erinevad detailid on loogilised.<br/><br/>
+    </p>
+    <h3>5. Etapp - Kasutamine ja hooldus</h3><br/>
+    <p>
+        Tegu on kõige pigema tarkvara elutsüklis oleva etapiga. Siin toimub vigade parandus, funktsionaalsuse<br/>
+        muutmine (Kas siis kliendi, turu, keskkonna või sihtrühma sisendi tagajärjeö või vajadusena) ja koodi<br/>
+        enda refaktoreerimine. Arendustöö teostamiseks korratakse kõiki eelmiseid etappe kuid siis ainult süsteemi<br/>
+        muutmise tarbeks mitte enam nullist millegi uue arendamise jaoks.<br/><br/>
+    </p><br/>
+    <p>
+        Iga etapi tulemusena tekib dokument või dokumentatsioon (üks või mitu) mis kirjeldab vastavas etapis<br/>
+        saavutatud tulemit. Kõik dokumendid kinnitatakse. Järgmine etapp ei tohi olla samaaegselt töös kui<br/>
+        eelmine pole lõpetatud. Kuigi ülekate mingisugune siiski on, ning info edastatakse ühest etapist<br/>
+        järgmisesse edasi.<br/><br/>
+    </p>
+    <h2>Arendusmudeli joonis:</h2>
+    <img src="../Pildid/Mudel.jpeg">
+    <br/><br/>
+    <h2>Arendusmudel head ja vead:</h2>
+    <table>
+        <tr>
+            <th>Mis on HEAD</th>
+            <th>Mis on VEAD</th>
+        </tr>
+        <tr>
+            <td>Efektiivne ja lollikindel </td>
+            <td>Võib palju aega kulutada</td>
+        </tr>
+        <tr>
+            <td>Igas etapis kindel ülesanne ja eesmärk</td>
+            <td>Raske rakendada, kui kliendi nõuded tihti muutuvad</td>
+        </tr>
+        <tr>
+            <td>Vigu saab varakult parandada</td>
+            <td>Võivad tekkida süsteemis vead, kui algne soov ja hilisem soov ei kattu</td>
+            
+        </tr>
+    </table>
+    <p>
+        Viited infole: 
+        <a href="https://eopearhiiv.edu.ee/e-kursused/eucip/arendus/1221_koskmudel.html">eõpearhiiv</a>
+    </p>
+</body>
+</html>

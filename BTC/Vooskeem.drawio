@@ -1,0 +1,263 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Leht-1" id="5VrnPzbopUdh8Eo1dJdf">
+    <mxGraphModel dx="943" dy="2216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lLVWpL12X3T7x4tV75NX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-1" target="lLVWpL12X3T7x4tV75NX-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-1" value="Algus" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-3" target="lLVWpL12X3T7x4tV75NX-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="135.33333333333348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-5" value="EI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lLVWpL12X3T7x4tV75NX-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.0496" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLVWpL12X3T7x4tV75NX-3" target="lLVWpL12X3T7x4tV75NX-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-8" value="JAH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lLVWpL12X3T7x4tV75NX-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.094" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-3" value="Kas kasutaja on sisestanud oma bitcoini koguse?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="80" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-6" target="lLVWpL12X3T7x4tV75NX-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-16" value="EI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lLVWpL12X3T7x4tV75NX-15" vertex="1" connectable="0">
+          <mxGeometry x="0.0105" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="La27kxWLBe0nOtNRBxIu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLVWpL12X3T7x4tV75NX-6" target="La27kxWLBe0nOtNRBxIu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="La27kxWLBe0nOtNRBxIu-3" value="JAH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="La27kxWLBe0nOtNRBxIu-2">
+          <mxGeometry x="-0.44" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-6" value="Kas&amp;nbsp;&lt;div&gt;kasutaja on valinud sihtvaluuta?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="270" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="135" />
+              <mxPoint x="710" y="40" />
+              <mxPoint x="300" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-13" value="Kuva&amp;nbsp;&lt;div&gt;kasutajale sõnum:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&quot;Palun sisesta BTC kogus&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="100" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="325" />
+              <mxPoint x="710" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-14" value="Kuva&amp;nbsp;&lt;div&gt;kasutajale sõnum:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&quot;Palun vali sihtvaluuta&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="290" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLVWpL12X3T7x4tV75NX-24" target="lLVWpL12X3T7x4tV75NX-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-24" target="lLVWpL12X3T7x4tV75NX-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="655.1428571428571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-35" value="JAH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lLVWpL12X3T7x4tV75NX-33" vertex="1" connectable="0">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-24" value="Kas valitud valuuta&amp;nbsp;&lt;div&gt;on EUR?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="600" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-31" target="lLVWpL12X3T7x4tV75NX-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-43" value="JAH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lLVWpL12X3T7x4tV75NX-42" vertex="1" connectable="0">
+          <mxGeometry x="-0.0163" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-31" target="lLVWpL12X3T7x4tV75NX-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-31" value="Kas valitud valuuta&amp;nbsp;&lt;div&gt;on USD?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="790" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLVWpL12X3T7x4tV75NX-34" target="lLVWpL12X3T7x4tV75NX-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-34" value="Esitame APIle&lt;div&gt;päringu BTC&lt;/div&gt;&lt;div&gt;hetkehinna&lt;/div&gt;&lt;div&gt;teadasaamiseks EUR&lt;/div&gt;&lt;div&gt;valuutas&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="620" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-36" target="lLVWpL12X3T7x4tV75NX-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-36" value="Korruta sisestatud&amp;nbsp;&lt;div&gt;BTC&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;kogus&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;hetkese EUR&lt;/span&gt;&lt;div&gt;hinnaga&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="620" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLVWpL12X3T7x4tV75NX-40" target="lLVWpL12X3T7x4tV75NX-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-40" value="Esitame APIle&lt;div&gt;päringu BTC&lt;/div&gt;&lt;div&gt;hetkehinna&lt;/div&gt;&lt;div&gt;teadasaamiseks USD&lt;/div&gt;&lt;div&gt;valuutas&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="810" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-41" target="lLVWpL12X3T7x4tV75NX-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="844.8571428571429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-41" value="Korruta sisestatud&amp;nbsp;&lt;div&gt;BTC&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;kogus&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;hetkese USD&lt;/span&gt;&lt;div&gt;hinnaga&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="810" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLVWpL12X3T7x4tV75NX-44" target="lLVWpL12X3T7x4tV75NX-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-50" value="JAH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lLVWpL12X3T7x4tV75NX-49" vertex="1" connectable="0">
+          <mxGeometry x="-0.0917" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-44" target="lLVWpL12X3T7x4tV75NX-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="915.1428571428571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-53" value="EI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lLVWpL12X3T7x4tV75NX-51" vertex="1" connectable="0">
+          <mxGeometry x="0.2423" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-44" value="Kas arvutus&amp;nbsp;&lt;div&gt;teostati edukalt?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1270" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-48" target="lLVWpL12X3T7x4tV75NX-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-48" value="Tulemus on aknas&lt;div&gt;kuvatud&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-52" edge="1" target="lLVWpL12X3T7x4tV75NX-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1155" y="-40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-52" value="Kuva kasutajale sõnum &quot;Tulemuse arvutus ebaõnnestus, palun proovi uuesti&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="740" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-55" value="Lõpp" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-59" target="lLVWpL12X3T7x4tV75NX-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-58" value="JAH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lLVWpL12X3T7x4tV75NX-57" vertex="1" connectable="0">
+          <mxGeometry x="-0.0163" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-59" target="lLVWpL12X3T7x4tV75NX-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-59" value="Kas valitud valuuta&amp;nbsp;&lt;div&gt;on GBP?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="970" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lLVWpL12X3T7x4tV75NX-61" target="lLVWpL12X3T7x4tV75NX-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-61" value="Esitame APIle&lt;div&gt;päringu BTC&lt;/div&gt;&lt;div&gt;hetkehinna&lt;/div&gt;&lt;div&gt;teadasaamiseks GBP&lt;/div&gt;&lt;div&gt;valuutas&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="990" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-62" target="lLVWpL12X3T7x4tV75NX-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-62" value="Korruta sisestatud&amp;nbsp;&lt;div&gt;BTC&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;kogus&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;hetkese GBP&lt;/span&gt;&lt;div&gt;hinnaga&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="990" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-65" target="lLVWpL12X3T7x4tV75NX-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-76" value="JAH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lLVWpL12X3T7x4tV75NX-74" vertex="1" connectable="0">
+          <mxGeometry x="-0.3333" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-65" target="lLVWpL12X3T7x4tV75NX-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="1270" />
+              <mxPoint x="380" y="1270" />
+              <mxPoint x="380" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-79" value="EI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lLVWpL12X3T7x4tV75NX-77" vertex="1" connectable="0">
+          <mxGeometry x="-0.8481" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-65" value="Kas valitud valuuta&amp;nbsp;&lt;div&gt;on EEK?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="1140" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lLVWpL12X3T7x4tV75NX-73" target="lLVWpL12X3T7x4tV75NX-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLVWpL12X3T7x4tV75NX-73" value="Korruta saadud&amp;nbsp;&lt;div&gt;tulemus läbi&amp;nbsp;&lt;/div&gt;&lt;div&gt;arvuga 1.6466&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1150" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="La27kxWLBe0nOtNRBxIu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="La27kxWLBe0nOtNRBxIu-1" target="lLVWpL12X3T7x4tV75NX-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="La27kxWLBe0nOtNRBxIu-5" value="JAH&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="La27kxWLBe0nOtNRBxIu-4">
+          <mxGeometry x="-0.1273" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="La27kxWLBe0nOtNRBxIu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="La27kxWLBe0nOtNRBxIu-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="488" />
+              <mxPoint x="880" y="-40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="La27kxWLBe0nOtNRBxIu-7" value="EI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="La27kxWLBe0nOtNRBxIu-6">
+          <mxGeometry x="-0.827" y="4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="La27kxWLBe0nOtNRBxIu-1" value="Kas&amp;nbsp;&lt;div&gt;kasutaja on vajutanud&amp;nbsp;&lt;div&gt;nuppu valuuta&amp;nbsp;&lt;/div&gt;&lt;div&gt;arvutamiseks?&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="430" width="180" height="115" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
